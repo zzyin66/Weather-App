@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Displays different background which varies with temperature
+
+Fetches data from live API and displays weather info.
+
 ## Available Scripts
 
 In the project directory, you can run:
